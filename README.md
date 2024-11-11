@@ -58,3 +58,6 @@ uses OpenAI's GPT-4 model to generate responses that adhere to the following pri
 
 The chatbot's purpose is not just to document the user's thoughts and feelings, but to support their journey towards
 deeper self-understanding and growth.
+
+7. Data analytics w/ Jupyter.
+> COMING SOON
